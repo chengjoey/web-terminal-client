@@ -1,6 +1,6 @@
 # web-terminal-client
 
-> web-terminal-client
+> web-terminal的前端, [后端地址](https://github.com/chengjoey/web-terminal)
 
 ## Build Setup
 
